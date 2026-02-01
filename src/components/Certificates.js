@@ -5,8 +5,8 @@ export default function Certificates() {
     {
       id: 4,
       title: "Full Stack Web Development",
-      issuer: "Meta (Coursera)",
-      date: "2023",
+      issuer: "Web Development (Pregrad)",
+      date: "2024",
       image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
       link: "https://coursera.org/verify/",
       skills: ["React", "Node.js", "MongoDB"]

@@ -13,7 +13,7 @@ export default function Home() {
     { icon: Github, href: 'https://github.com/Harxhit-web', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/harshit-bhardwaj-75691a31b', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:bhardwajharshit931@gmail.com', label: 'Email' },
-    { icon: Phone, href: 'tel:+919876543210', label: 'Phone' },
+    { icon: Phone, href: 'tel:+919015202536', label: 'Phone' },
   ]
 
   return (

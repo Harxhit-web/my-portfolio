@@ -28,6 +28,13 @@ export default function Skills() {
       ]
     },
     {
+      title: "Machine Learning & AI",
+      skills: [
+        { name: "Pandas", level: 60 },
+        { name: "NumPy", level: 65 },
+      ]
+    },
+    {
       title: "Databases",
       skills: [
         { name: "MongoDB", level: 75 },
@@ -90,8 +97,8 @@ export default function Skills() {
           <h3 className="text-2xl font-bold text-white mb-6 text-center">Other Technologies</h3>
           <div className="flex flex-wrap gap-3 justify-center">
             {[
-              "REST APIs", "GraphQL", "WebSockets", "JWT", "OAuth", "Jest", "Postman",
-              "Webpack", "npm", "yarn", "Postman"
+              "REST APIs", "GraphQL", "WebSockets", "JWT", "NextAuth", "Jest", "Postman",
+              "Webpack", "npm", "yarn", "GitHub", "git"
             ].map((tech, idx) => (
               <span
                 key={idx}
